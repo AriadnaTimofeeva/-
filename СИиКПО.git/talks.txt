@@ -1,0 +1,7 @@
+10:00 10:10 Ivanov Ivan Ivanovich topic1
+11:00 11:15 Petrov Peter Petrovich topic2
+12:00 12:20 Alekseyev Alexey Alekseevich topic3
+13:00 13:30 Vasiliev Vasily Vasilyevich topic4
+14:00 14:10 Ivanov Ivan Ivanovich topic5
+15:00 15:05 Alexandrov Alexander Alexandrovich topic6
+16:00 16:25 Ivanov Ivan Ivanovich topic7
